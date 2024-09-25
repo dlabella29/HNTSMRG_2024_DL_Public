@@ -1,0 +1,2 @@
+{analyze: true, datastats: /home/dlabella29/Auto3DSegDL/Auto3DSegDL/HN_pre_3.14/datastats.yaml,
+  algo_gen: true, train: false}

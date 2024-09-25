@@ -1,0 +1,11 @@
+modality: MRI
+dataroot: /media/dlabella29/Extreme Pro/HNImageTrLabelTr
+datalist: /home/dlabella29/Auto3DSegDL/Auto3DSegDL/HN_pre_3.14/HN_preRT_data_final.json
+sigmoid: false
+resample: false
+class_names:
+- tumor
+- node
+finetune:
+  enabled: true
+  ckpt_name: /home/dlabella29/Auto3DSegDL/Auto3DSegDL/HN_all_3_9.11.24_pre/segresnet_0/model/model.pt

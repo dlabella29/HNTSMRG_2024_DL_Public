@@ -1,0 +1,1204 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "image": [
+                "modified_4_midRT_T2.nii.gz",
+                "modified_4_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_4_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_86_midRT_T2.nii.gz",
+                "modified_86_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_86_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_70_midRT_T2.nii.gz",
+                "modified_70_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_70_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_175_midRT_T2.nii.gz",
+                "modified_175_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_175_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_79_midRT_T2.nii.gz",
+                "modified_79_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_79_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_155_midRT_T2.nii.gz",
+                "modified_155_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_155_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_191_midRT_T2.nii.gz",
+                "modified_191_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_191_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_25_midRT_T2.nii.gz",
+                "modified_25_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_25_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_58_midRT_T2.nii.gz",
+                "modified_58_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_58_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_166_midRT_T2.nii.gz",
+                "modified_166_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_166_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_33_midRT_T2.nii.gz",
+                "modified_33_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_33_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_146_midRT_T2.nii.gz",
+                "modified_146_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_146_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_153_midRT_T2.nii.gz",
+                "modified_153_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_153_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_50_midRT_T2.nii.gz",
+                "modified_50_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_50_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_29_midRT_T2.nii.gz",
+                "modified_29_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_29_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_152_midRT_T2.nii.gz",
+                "modified_152_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_152_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_47_midRT_T2.nii.gz",
+                "modified_47_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_47_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_163_midRT_T2.nii.gz",
+                "modified_163_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_163_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_3_midRT_T2.nii.gz",
+                "modified_3_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_3_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_148_midRT_T2.nii.gz",
+                "modified_148_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_148_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_82_midRT_T2.nii.gz",
+                "modified_82_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_82_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_69_midRT_T2.nii.gz",
+                "modified_69_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_69_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_118_midRT_T2.nii.gz",
+                "modified_118_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_118_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_164_midRT_T2.nii.gz",
+                "modified_164_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_164_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_103_midRT_T2.nii.gz",
+                "modified_103_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_103_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_17_midRT_T2.nii.gz",
+                "modified_17_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_17_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_180_midRT_T2.nii.gz",
+                "modified_180_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_180_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_83_midRT_T2.nii.gz",
+                "modified_83_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_83_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_187_midRT_T2.nii.gz",
+                "modified_187_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_187_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_39_midRT_T2.nii.gz",
+                "modified_39_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_39_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_95_midRT_T2.nii.gz",
+                "modified_95_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_95_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_132_midRT_T2.nii.gz",
+                "modified_132_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_132_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_104_midRT_T2.nii.gz",
+                "modified_104_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_104_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_125_midRT_T2.nii.gz",
+                "modified_125_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_125_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_173_midRT_T2.nii.gz",
+                "modified_173_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_173_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_56_midRT_T2.nii.gz",
+                "modified_56_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_56_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_154_midRT_T2.nii.gz",
+                "modified_154_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_154_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_185_midRT_T2.nii.gz",
+                "modified_185_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_185_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_63_midRT_T2.nii.gz",
+                "modified_63_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_63_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_133_midRT_T2.nii.gz",
+                "modified_133_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_133_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_22_midRT_T2.nii.gz",
+                "modified_22_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_22_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_112_midRT_T2.nii.gz",
+                "modified_112_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_112_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_136_midRT_T2.nii.gz",
+                "modified_136_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_136_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_110_midRT_T2.nii.gz",
+                "modified_110_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_110_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_101_midRT_T2.nii.gz",
+                "modified_101_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_101_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_129_midRT_T2.nii.gz",
+                "modified_129_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_129_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_158_midRT_T2.nii.gz",
+                "modified_158_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_158_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_49_midRT_T2.nii.gz",
+                "modified_49_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_49_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_190_midRT_T2.nii.gz",
+                "modified_190_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_190_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_66_midRT_T2.nii.gz",
+                "modified_66_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_66_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_113_midRT_T2.nii.gz",
+                "modified_113_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_113_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_94_midRT_T2.nii.gz",
+                "modified_94_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_94_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_8_midRT_T2.nii.gz",
+                "modified_8_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_8_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_183_midRT_T2.nii.gz",
+                "modified_183_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_183_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_116_midRT_T2.nii.gz",
+                "modified_116_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_116_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_174_midRT_T2.nii.gz",
+                "modified_174_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_174_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_30_midRT_T2.nii.gz",
+                "modified_30_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_30_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_10_midRT_T2.nii.gz",
+                "modified_10_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_10_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_161_midRT_T2.nii.gz",
+                "modified_161_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_161_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_178_midRT_T2.nii.gz",
+                "modified_178_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_178_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_24_midRT_T2.nii.gz",
+                "modified_24_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_24_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_32_midRT_T2.nii.gz",
+                "modified_32_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_32_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_149_midRT_T2.nii.gz",
+                "modified_149_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_149_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_31_midRT_T2.nii.gz",
+                "modified_31_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_31_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_21_midRT_T2.nii.gz",
+                "modified_21_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_21_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_135_midRT_T2.nii.gz",
+                "modified_135_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_135_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_26_midRT_T2.nii.gz",
+                "modified_26_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_26_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_176_midRT_T2.nii.gz",
+                "modified_176_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_176_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_34_midRT_T2.nii.gz",
+                "modified_34_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_34_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_184_midRT_T2.nii.gz",
+                "modified_184_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_184_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_201_midRT_T2.nii.gz",
+                "modified_201_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_201_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_93_midRT_T2.nii.gz",
+                "modified_93_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_93_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_179_midRT_T2.nii.gz",
+                "modified_179_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_179_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_11_midRT_T2.nii.gz",
+                "modified_11_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_11_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_27_midRT_T2.nii.gz",
+                "modified_27_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_27_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_157_midRT_T2.nii.gz",
+                "modified_157_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_157_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_171_midRT_T2.nii.gz",
+                "modified_171_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_171_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_77_midRT_T2.nii.gz",
+                "modified_77_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_77_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_44_midRT_T2.nii.gz",
+                "modified_44_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_44_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_144_midRT_T2.nii.gz",
+                "modified_144_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_144_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_6_midRT_T2.nii.gz",
+                "modified_6_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_6_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_165_midRT_T2.nii.gz",
+                "modified_165_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_165_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_194_midRT_T2.nii.gz",
+                "modified_194_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_194_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_193_midRT_T2.nii.gz",
+                "modified_193_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_193_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_18_midRT_T2.nii.gz",
+                "modified_18_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_18_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_169_midRT_T2.nii.gz",
+                "modified_169_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_169_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_71_midRT_T2.nii.gz",
+                "modified_71_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_71_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_142_midRT_T2.nii.gz",
+                "modified_142_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_142_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_115_midRT_T2.nii.gz",
+                "modified_115_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_115_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_13_midRT_T2.nii.gz",
+                "modified_13_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_13_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_88_midRT_T2.nii.gz",
+                "modified_88_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_88_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_197_midRT_T2.nii.gz",
+                "modified_197_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_197_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_109_midRT_T2.nii.gz",
+                "modified_109_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_109_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_119_midRT_T2.nii.gz",
+                "modified_119_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_119_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_81_midRT_T2.nii.gz",
+                "modified_81_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_81_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_139_midRT_T2.nii.gz",
+                "modified_139_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_139_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_78_midRT_T2.nii.gz",
+                "modified_78_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_78_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_122_midRT_T2.nii.gz",
+                "modified_122_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_122_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_111_midRT_T2.nii.gz",
+                "modified_111_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_111_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_114_midRT_T2.nii.gz",
+                "modified_114_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_114_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_107_midRT_T2.nii.gz",
+                "modified_107_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_107_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_55_midRT_T2.nii.gz",
+                "modified_55_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_55_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_170_midRT_T2.nii.gz",
+                "modified_170_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_170_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_36_midRT_T2.nii.gz",
+                "modified_36_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_36_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_141_midRT_T2.nii.gz",
+                "modified_141_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_141_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_91_midRT_T2.nii.gz",
+                "modified_91_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_91_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_2_midRT_T2.nii.gz",
+                "modified_2_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_2_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_75_midRT_T2.nii.gz",
+                "modified_75_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_75_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_20_midRT_T2.nii.gz",
+                "modified_20_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_20_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_74_midRT_T2.nii.gz",
+                "modified_74_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_74_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_131_midRT_T2.nii.gz",
+                "modified_131_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_131_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_5_midRT_T2.nii.gz",
+                "modified_5_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_5_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_60_midRT_T2.nii.gz",
+                "modified_60_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_60_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_90_midRT_T2.nii.gz",
+                "modified_90_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_90_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_53_midRT_T2.nii.gz",
+                "modified_53_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_53_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_195_midRT_T2.nii.gz",
+                "modified_195_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_195_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_61_midRT_T2.nii.gz",
+                "modified_61_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_61_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_23_midRT_T2.nii.gz",
+                "modified_23_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_23_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_127_midRT_T2.nii.gz",
+                "modified_127_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_127_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_196_midRT_T2.nii.gz",
+                "modified_196_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_196_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_67_midRT_T2.nii.gz",
+                "modified_67_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_67_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_46_midRT_T2.nii.gz",
+                "modified_46_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_46_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_108_midRT_T2.nii.gz",
+                "modified_108_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_108_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_42_midRT_T2.nii.gz",
+                "modified_42_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_42_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_57_midRT_T2.nii.gz",
+                "modified_57_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_57_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_14_midRT_T2.nii.gz",
+                "modified_14_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_14_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_145_midRT_T2.nii.gz",
+                "modified_145_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_145_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_130_midRT_T2.nii.gz",
+                "modified_130_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_130_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_181_midRT_T2.nii.gz",
+                "modified_181_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_181_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_41_midRT_T2.nii.gz",
+                "modified_41_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_41_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_48_midRT_T2.nii.gz",
+                "modified_48_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_48_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_156_midRT_T2.nii.gz",
+                "modified_156_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_156_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_99_midRT_T2.nii.gz",
+                "modified_99_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_99_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_188_midRT_T2.nii.gz",
+                "modified_188_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_188_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_138_midRT_T2.nii.gz",
+                "modified_138_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_138_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_12_midRT_T2.nii.gz",
+                "modified_12_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_12_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_172_midRT_T2.nii.gz",
+                "modified_172_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_172_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_177_midRT_T2.nii.gz",
+                "modified_177_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_177_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_52_midRT_T2.nii.gz",
+                "modified_52_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_52_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_80_midRT_T2.nii.gz",
+                "modified_80_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_80_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_96_midRT_T2.nii.gz",
+                "modified_96_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_96_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_159_midRT_T2.nii.gz",
+                "modified_159_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_159_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_198_midRT_T2.nii.gz",
+                "modified_198_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_198_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_45_midRT_T2.nii.gz",
+                "modified_45_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_45_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_105_midRT_T2.nii.gz",
+                "modified_105_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_105_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "modified_64_midRT_T2.nii.gz",
+                "modified_64_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_64_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "modified_151_midRT_T2.nii.gz",
+                "modified_151_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_151_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "modified_37_midRT_T2.nii.gz",
+                "modified_37_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_37_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "modified_84_midRT_T2.nii.gz",
+                "modified_84_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_84_midRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "modified_150_midRT_T2.nii.gz",
+                "modified_150_preRT_T2_registered.nii.gz"
+            ],
+            "label": "modified_150_midRT_mask_registered.nii.gz"
+        }
+    ]
+}

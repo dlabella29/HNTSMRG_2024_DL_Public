@@ -1,0 +1,3155 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/2/midRT/2_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/2/midRT/2_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/2/midRT/2_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/2/midRT/2_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/2/preRT/2_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/2/preRT/2_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/3/midRT/3_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/3/midRT/3_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/3/midRT/3_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/3/midRT/3_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/3/preRT/3_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/3/preRT/3_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/4/midRT/4_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/4/midRT/4_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/4/midRT/4_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/4/midRT/4_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/4/preRT/4_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/4/preRT/4_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/5/midRT/5_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/5/midRT/5_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/5/midRT/5_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/5/midRT/5_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/5/preRT/5_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/5/preRT/5_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/6/midRT/6_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/6/midRT/6_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/6/midRT/6_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/6/midRT/6_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/6/preRT/6_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/6/preRT/6_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/8/midRT/8_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/8/midRT/8_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/8/midRT/8_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/8/midRT/8_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/8/preRT/8_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/8/preRT/8_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/10/midRT/10_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/10/midRT/10_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/10/midRT/10_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/10/midRT/10_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/10/preRT/10_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/10/preRT/10_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/11/midRT/11_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/11/midRT/11_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/11/midRT/11_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/11/midRT/11_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/11/preRT/11_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/11/preRT/11_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/12/midRT/12_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/12/midRT/12_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/12/midRT/12_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/12/midRT/12_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/12/preRT/12_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/12/preRT/12_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/13/midRT/13_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/13/midRT/13_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/13/midRT/13_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/13/midRT/13_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/13/preRT/13_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/13/preRT/13_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/14/midRT/14_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/14/midRT/14_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/14/midRT/14_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/14/midRT/14_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/14/preRT/14_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/14/preRT/14_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/17/midRT/17_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/17/midRT/17_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/17/midRT/17_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/17/midRT/17_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/17/preRT/17_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/17/preRT/17_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/18/midRT/18_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/18/midRT/18_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/18/midRT/18_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/18/midRT/18_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/18/preRT/18_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/18/preRT/18_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/20/midRT/20_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/20/midRT/20_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/20/midRT/20_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/20/midRT/20_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/20/preRT/20_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/20/preRT/20_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/21/midRT/21_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/21/midRT/21_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/21/midRT/21_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/21/midRT/21_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/21/preRT/21_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/21/preRT/21_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/22/midRT/22_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/22/midRT/22_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/22/midRT/22_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/22/midRT/22_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/22/preRT/22_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/22/preRT/22_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/23/midRT/23_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/23/midRT/23_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/23/midRT/23_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/23/midRT/23_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/23/preRT/23_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/23/preRT/23_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/24/midRT/24_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/24/midRT/24_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/24/midRT/24_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/24/midRT/24_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/24/preRT/24_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/24/preRT/24_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/25/midRT/25_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/25/midRT/25_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/25/midRT/25_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/25/midRT/25_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/25/preRT/25_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/25/preRT/25_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/26/midRT/26_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/26/midRT/26_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/26/midRT/26_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/26/midRT/26_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/26/preRT/26_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/26/preRT/26_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/27/midRT/27_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/27/midRT/27_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/27/midRT/27_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/27/midRT/27_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/27/preRT/27_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/27/preRT/27_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/29/midRT/29_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/29/midRT/29_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/29/midRT/29_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/29/midRT/29_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/29/preRT/29_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/29/preRT/29_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/30/midRT/30_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/30/midRT/30_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/30/midRT/30_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/30/midRT/30_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/30/preRT/30_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/30/preRT/30_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/31/midRT/31_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/31/midRT/31_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/31/midRT/31_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/31/midRT/31_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/31/preRT/31_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/31/preRT/31_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/32/midRT/32_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/32/midRT/32_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/32/midRT/32_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/32/midRT/32_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/32/preRT/32_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/32/preRT/32_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/33/midRT/33_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/33/midRT/33_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/33/midRT/33_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/33/midRT/33_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/33/preRT/33_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/33/preRT/33_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/34/midRT/34_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/34/midRT/34_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/34/midRT/34_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/34/midRT/34_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/34/preRT/34_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/34/preRT/34_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/36/midRT/36_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/36/midRT/36_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/36/midRT/36_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/36/midRT/36_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/36/preRT/36_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/36/preRT/36_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/37/midRT/37_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/37/midRT/37_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/37/midRT/37_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/37/midRT/37_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/37/preRT/37_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/37/preRT/37_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/39/midRT/39_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/39/midRT/39_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/39/midRT/39_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/39/midRT/39_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/39/preRT/39_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/39/preRT/39_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/41/midRT/41_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/41/midRT/41_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/41/midRT/41_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/41/midRT/41_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/41/preRT/41_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/41/preRT/41_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/42/midRT/42_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/42/midRT/42_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/42/midRT/42_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/42/midRT/42_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/42/preRT/42_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/42/preRT/42_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/44/midRT/44_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/44/midRT/44_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/44/midRT/44_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/44/midRT/44_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/44/preRT/44_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/44/preRT/44_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/45/midRT/45_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/45/midRT/45_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/45/midRT/45_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/45/midRT/45_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/45/preRT/45_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/45/preRT/45_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/46/midRT/46_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/46/midRT/46_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/46/midRT/46_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/46/midRT/46_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/46/preRT/46_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/46/preRT/46_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/47/midRT/47_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/47/midRT/47_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/47/midRT/47_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/47/midRT/47_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/47/preRT/47_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/47/preRT/47_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/48/midRT/48_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/48/midRT/48_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/48/midRT/48_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/48/midRT/48_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/48/preRT/48_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/48/preRT/48_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/49/midRT/49_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/49/midRT/49_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/49/midRT/49_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/49/midRT/49_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/49/preRT/49_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/49/preRT/49_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/50/midRT/50_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/50/midRT/50_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/50/midRT/50_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/50/midRT/50_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/50/preRT/50_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/50/preRT/50_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/52/midRT/52_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/52/midRT/52_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/52/midRT/52_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/52/midRT/52_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/52/preRT/52_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/52/preRT/52_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/53/midRT/53_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/53/midRT/53_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/53/midRT/53_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/53/midRT/53_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/53/preRT/53_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/53/preRT/53_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/55/midRT/55_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/55/midRT/55_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/55/midRT/55_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/55/midRT/55_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/55/preRT/55_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/55/preRT/55_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/56/midRT/56_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/56/midRT/56_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/56/midRT/56_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/56/midRT/56_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/56/preRT/56_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/56/preRT/56_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/57/midRT/57_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/57/midRT/57_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/57/midRT/57_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/57/midRT/57_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/57/preRT/57_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/57/preRT/57_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/58/midRT/58_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/58/midRT/58_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/58/midRT/58_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/58/midRT/58_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/58/preRT/58_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/58/preRT/58_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/60/midRT/60_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/60/midRT/60_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/60/midRT/60_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/60/midRT/60_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/60/preRT/60_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/60/preRT/60_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/61/midRT/61_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/61/midRT/61_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/61/midRT/61_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/61/midRT/61_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/61/preRT/61_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/61/preRT/61_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/63/midRT/63_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/63/midRT/63_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/63/midRT/63_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/63/midRT/63_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/63/preRT/63_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/63/preRT/63_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/64/midRT/64_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/64/midRT/64_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/64/midRT/64_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/64/midRT/64_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/64/preRT/64_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/64/preRT/64_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/66/midRT/66_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/66/midRT/66_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/66/midRT/66_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/66/midRT/66_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/66/preRT/66_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/66/preRT/66_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/67/midRT/67_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/67/midRT/67_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/67/midRT/67_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/67/midRT/67_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/67/preRT/67_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/67/preRT/67_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/69/midRT/69_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/69/midRT/69_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/69/midRT/69_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/69/midRT/69_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/69/preRT/69_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/69/preRT/69_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/70/midRT/70_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/70/midRT/70_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/70/midRT/70_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/70/midRT/70_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/70/preRT/70_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/70/preRT/70_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/71/midRT/71_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/71/midRT/71_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/71/midRT/71_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/71/midRT/71_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/71/preRT/71_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/71/preRT/71_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/74/midRT/74_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/74/midRT/74_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/74/midRT/74_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/74/midRT/74_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/74/preRT/74_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/74/preRT/74_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/75/midRT/75_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/75/midRT/75_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/75/midRT/75_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/75/midRT/75_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/75/preRT/75_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/75/preRT/75_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/77/midRT/77_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/77/midRT/77_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/77/midRT/77_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/77/midRT/77_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/77/preRT/77_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/77/preRT/77_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/78/midRT/78_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/78/midRT/78_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/78/midRT/78_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/78/midRT/78_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/78/preRT/78_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/78/preRT/78_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/79/midRT/79_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/79/midRT/79_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/79/midRT/79_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/79/midRT/79_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/79/preRT/79_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/79/preRT/79_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/80/midRT/80_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/80/midRT/80_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/80/midRT/80_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/80/midRT/80_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/80/preRT/80_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/80/preRT/80_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/81/midRT/81_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/81/midRT/81_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/81/midRT/81_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/81/midRT/81_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/81/preRT/81_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/81/preRT/81_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/82/midRT/82_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/82/midRT/82_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/82/midRT/82_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/82/midRT/82_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/82/preRT/82_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/82/preRT/82_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/83/midRT/83_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/83/midRT/83_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/83/midRT/83_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/83/midRT/83_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/83/preRT/83_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/83/preRT/83_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/84/midRT/84_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/84/midRT/84_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/84/midRT/84_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/84/midRT/84_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/84/preRT/84_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/84/preRT/84_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/86/midRT/86_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/86/midRT/86_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/86/midRT/86_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/86/midRT/86_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/86/preRT/86_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/86/preRT/86_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/88/midRT/88_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/88/midRT/88_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/88/midRT/88_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/88/midRT/88_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/88/preRT/88_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/88/preRT/88_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/90/midRT/90_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/90/midRT/90_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/90/midRT/90_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/90/midRT/90_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/90/preRT/90_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/90/preRT/90_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/91/midRT/91_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/91/midRT/91_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/91/midRT/91_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/91/midRT/91_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/91/preRT/91_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/91/preRT/91_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/93/midRT/93_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/93/midRT/93_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/93/midRT/93_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/93/midRT/93_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/93/preRT/93_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/93/preRT/93_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/94/midRT/94_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/94/midRT/94_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/94/midRT/94_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/94/midRT/94_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/94/preRT/94_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/94/preRT/94_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/95/midRT/95_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/95/midRT/95_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/95/midRT/95_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/95/midRT/95_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/95/preRT/95_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/95/preRT/95_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/96/midRT/96_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/96/midRT/96_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/96/midRT/96_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/96/midRT/96_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/96/preRT/96_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/96/preRT/96_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/99/midRT/99_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/99/midRT/99_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/99/midRT/99_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/99/midRT/99_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/99/preRT/99_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/99/preRT/99_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/101/midRT/101_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/101/midRT/101_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/101/midRT/101_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/101/midRT/101_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/101/preRT/101_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/101/preRT/101_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/103/midRT/103_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/103/midRT/103_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/103/midRT/103_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/103/midRT/103_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/103/preRT/103_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/103/preRT/103_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/104/midRT/104_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/104/midRT/104_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/104/midRT/104_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/104/midRT/104_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/104/preRT/104_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/104/preRT/104_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/105/midRT/105_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/105/midRT/105_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/105/midRT/105_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/105/midRT/105_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/105/preRT/105_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/105/preRT/105_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/107/midRT/107_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/107/midRT/107_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/107/midRT/107_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/107/midRT/107_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/107/preRT/107_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/107/preRT/107_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/108/midRT/108_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/108/midRT/108_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/108/midRT/108_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/108/midRT/108_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/108/preRT/108_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/108/preRT/108_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/109/midRT/109_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/109/midRT/109_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/109/midRT/109_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/109/midRT/109_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/109/preRT/109_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/109/preRT/109_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/110/midRT/110_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/110/midRT/110_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/110/midRT/110_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/110/midRT/110_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/110/preRT/110_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/110/preRT/110_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/111/midRT/111_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/111/midRT/111_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/111/midRT/111_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/111/midRT/111_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/111/preRT/111_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/111/preRT/111_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/112/midRT/112_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/112/midRT/112_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/112/midRT/112_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/112/midRT/112_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/112/preRT/112_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/112/preRT/112_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/113/midRT/113_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/113/midRT/113_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/113/midRT/113_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/113/midRT/113_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/113/preRT/113_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/113/preRT/113_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/114/midRT/114_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/114/midRT/114_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/114/midRT/114_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/114/midRT/114_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/114/preRT/114_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/114/preRT/114_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/115/midRT/115_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/115/midRT/115_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/115/midRT/115_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/115/midRT/115_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/115/preRT/115_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/115/preRT/115_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/116/midRT/116_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/116/midRT/116_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/116/midRT/116_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/116/midRT/116_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/116/preRT/116_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/116/preRT/116_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/118/midRT/118_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/118/midRT/118_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/118/midRT/118_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/118/midRT/118_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/118/preRT/118_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/118/preRT/118_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/119/midRT/119_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/119/midRT/119_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/119/midRT/119_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/119/midRT/119_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/119/preRT/119_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/119/preRT/119_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/122/midRT/122_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/122/midRT/122_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/122/midRT/122_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/122/midRT/122_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/122/preRT/122_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/122/preRT/122_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/125/midRT/125_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/125/midRT/125_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/125/midRT/125_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/125/midRT/125_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/125/preRT/125_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/125/preRT/125_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/127/midRT/127_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/127/midRT/127_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/127/midRT/127_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/127/midRT/127_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/127/preRT/127_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/127/preRT/127_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/129/midRT/129_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/129/midRT/129_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/129/midRT/129_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/129/midRT/129_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/129/preRT/129_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/129/preRT/129_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/130/midRT/130_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/130/midRT/130_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/130/midRT/130_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/130/midRT/130_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/130/preRT/130_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/130/preRT/130_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/131/midRT/131_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/131/midRT/131_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/131/midRT/131_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/131/midRT/131_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/131/preRT/131_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/131/preRT/131_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/132/midRT/132_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/132/midRT/132_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/132/midRT/132_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/132/midRT/132_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/132/preRT/132_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/132/preRT/132_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/133/midRT/133_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/133/midRT/133_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/133/midRT/133_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/133/midRT/133_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/133/preRT/133_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/133/preRT/133_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/135/midRT/135_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/135/midRT/135_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/135/midRT/135_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/135/midRT/135_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/135/preRT/135_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/135/preRT/135_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/136/midRT/136_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/136/midRT/136_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/136/midRT/136_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/136/midRT/136_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/136/preRT/136_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/136/preRT/136_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/138/midRT/138_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/138/midRT/138_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/138/midRT/138_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/138/midRT/138_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/138/preRT/138_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/138/preRT/138_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/139/midRT/139_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/139/midRT/139_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/139/midRT/139_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/139/midRT/139_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/139/preRT/139_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/139/preRT/139_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/141/midRT/141_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/141/midRT/141_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/141/midRT/141_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/141/midRT/141_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/141/preRT/141_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/141/preRT/141_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/142/midRT/142_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/142/midRT/142_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/142/midRT/142_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/142/midRT/142_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/142/preRT/142_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/142/preRT/142_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/144/midRT/144_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/144/midRT/144_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/144/midRT/144_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/144/midRT/144_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/144/preRT/144_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/144/preRT/144_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/145/midRT/145_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/145/midRT/145_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/145/midRT/145_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/145/midRT/145_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/145/preRT/145_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/145/preRT/145_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/146/midRT/146_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/146/midRT/146_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/146/midRT/146_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/146/midRT/146_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/146/preRT/146_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/146/preRT/146_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/148/midRT/148_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/148/midRT/148_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/148/midRT/148_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/148/midRT/148_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/148/preRT/148_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/148/preRT/148_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/149/midRT/149_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/149/midRT/149_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/149/midRT/149_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/149/midRT/149_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/149/preRT/149_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/149/preRT/149_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/150/midRT/150_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/150/midRT/150_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/150/midRT/150_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/150/midRT/150_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/150/preRT/150_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/150/preRT/150_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/151/midRT/151_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/151/midRT/151_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/151/midRT/151_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/151/midRT/151_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/151/preRT/151_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/151/preRT/151_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/152/midRT/152_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/152/midRT/152_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/152/midRT/152_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/152/midRT/152_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/152/preRT/152_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/152/preRT/152_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/153/midRT/153_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/153/midRT/153_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/153/midRT/153_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/153/midRT/153_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 5,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/153/preRT/153_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/153/preRT/153_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/154/midRT/154_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/154/midRT/154_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/154/midRT/154_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/154/midRT/154_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/154/preRT/154_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/154/preRT/154_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/155/midRT/155_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/155/midRT/155_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/155/midRT/155_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/155/midRT/155_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/155/preRT/155_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/155/preRT/155_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/156/midRT/156_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/156/midRT/156_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/156/midRT/156_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/156/midRT/156_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/156/preRT/156_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/156/preRT/156_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/157/midRT/157_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/157/midRT/157_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/157/midRT/157_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/157/midRT/157_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/157/preRT/157_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/157/preRT/157_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/158/midRT/158_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/158/midRT/158_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/158/midRT/158_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/158/midRT/158_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/158/preRT/158_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/158/preRT/158_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/159/midRT/159_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/159/midRT/159_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/159/midRT/159_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/159/midRT/159_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/159/preRT/159_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/159/preRT/159_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/161/midRT/161_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/161/midRT/161_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/161/midRT/161_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/161/midRT/161_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/161/preRT/161_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/161/preRT/161_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/163/midRT/163_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/163/midRT/163_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/163/midRT/163_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/163/midRT/163_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/163/preRT/163_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/163/preRT/163_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/164/midRT/164_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/164/midRT/164_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/164/midRT/164_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/164/midRT/164_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/164/preRT/164_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/164/preRT/164_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/165/midRT/165_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/165/midRT/165_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/165/midRT/165_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/165/midRT/165_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/165/preRT/165_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/165/preRT/165_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/166/midRT/166_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/166/midRT/166_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/166/midRT/166_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/166/midRT/166_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/166/preRT/166_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/166/preRT/166_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/169/midRT/169_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/169/midRT/169_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/169/midRT/169_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/169/midRT/169_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/169/preRT/169_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/169/preRT/169_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/170/midRT/170_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/170/midRT/170_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/170/midRT/170_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/170/midRT/170_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/170/preRT/170_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/170/preRT/170_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/171/midRT/171_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/171/midRT/171_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/171/midRT/171_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/171/midRT/171_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/171/preRT/171_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/171/preRT/171_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/172/midRT/172_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/172/midRT/172_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/172/midRT/172_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/172/midRT/172_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/172/preRT/172_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/172/preRT/172_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/173/midRT/173_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/173/midRT/173_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/173/midRT/173_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/173/midRT/173_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/173/preRT/173_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/173/preRT/173_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/174/midRT/174_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/174/midRT/174_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/174/midRT/174_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/174/midRT/174_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/174/preRT/174_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/174/preRT/174_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/175/midRT/175_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/175/midRT/175_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/175/midRT/175_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/175/midRT/175_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/175/preRT/175_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/175/preRT/175_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/176/midRT/176_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/176/midRT/176_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/176/midRT/176_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/176/midRT/176_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 6,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/176/preRT/176_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/176/preRT/176_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/177/midRT/177_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/177/midRT/177_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/177/midRT/177_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/177/midRT/177_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/177/preRT/177_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/177/preRT/177_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/178/midRT/178_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/178/midRT/178_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/178/midRT/178_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/178/midRT/178_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/178/preRT/178_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/178/preRT/178_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/179/midRT/179_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/179/midRT/179_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/179/midRT/179_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/179/midRT/179_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/179/preRT/179_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/179/preRT/179_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/180/midRT/180_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/180/midRT/180_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/180/midRT/180_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/180/midRT/180_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/180/preRT/180_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/180/preRT/180_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/181/midRT/181_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/181/midRT/181_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/181/midRT/181_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/181/midRT/181_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/181/preRT/181_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/181/preRT/181_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/183/midRT/183_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/183/midRT/183_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/183/midRT/183_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/183/midRT/183_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/183/preRT/183_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/183/preRT/183_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/184/midRT/184_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/184/midRT/184_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/184/midRT/184_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/184/midRT/184_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/184/preRT/184_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/184/preRT/184_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/185/midRT/185_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/185/midRT/185_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/185/midRT/185_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/185/midRT/185_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/185/preRT/185_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/185/preRT/185_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/187/midRT/187_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/187/midRT/187_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/187/midRT/187_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/187/midRT/187_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/187/preRT/187_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/187/preRT/187_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/188/midRT/188_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/188/midRT/188_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/188/midRT/188_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/188/midRT/188_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/188/preRT/188_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/188/preRT/188_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/190/midRT/190_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/190/midRT/190_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/190/midRT/190_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/190/midRT/190_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/190/preRT/190_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/190/preRT/190_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/191/midRT/191_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/191/midRT/191_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/191/midRT/191_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/191/midRT/191_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/191/preRT/191_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/191/preRT/191_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/193/midRT/193_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/193/midRT/193_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/193/midRT/193_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/193/midRT/193_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/193/preRT/193_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/193/preRT/193_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/194/midRT/194_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/194/midRT/194_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/194/midRT/194_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/194/midRT/194_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/194/preRT/194_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/194/preRT/194_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/195/midRT/195_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/195/midRT/195_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/195/midRT/195_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/195/midRT/195_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/195/preRT/195_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/195/preRT/195_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/196/midRT/196_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/196/midRT/196_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/196/midRT/196_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/196/midRT/196_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/196/preRT/196_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/196/preRT/196_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/197/midRT/197_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/197/midRT/197_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/197/midRT/197_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/197/midRT/197_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/197/preRT/197_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/197/preRT/197_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/198/midRT/198_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/198/midRT/198_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/198/midRT/198_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/198/midRT/198_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/198/preRT/198_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/198/preRT/198_preRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/201/midRT/201_midRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/201/midRT/201_midRT_mask.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/201/midRT/201_preRT_T2_registered.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/201/midRT/201_preRT_mask_registered.nii.gz"
+        },
+        {
+            "fold": 7,
+            "image": [
+                "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/201/preRT/201_preRT_T2.nii.gz"
+            ],
+            "label": "/media/dlabella29/Extreme Pro/HN_Data/HNTSMRG24_train/201/preRT/201_preRT_mask.nii.gz"
+        }
+    ],
+    "testing": []
+}
